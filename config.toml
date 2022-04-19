@@ -1,3 +1,19 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://mitzvot.makyo.ink/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Mitzvot'
+theme = 'maddybook'
+paginatePath = ''
+
+[permalinks]
+    post = '/:filename/'
+
+[params]
+    author = 'Madison Scott-Clary'
+    home = 'https://makyo.ink'
+    copyright = 2023
+    customCSS = ['/css/mitzvot.css']
+    subtitle = 'Post-Self book IV'
+    subtitleLink = 'https://post-self.makyo.ink'
+
+[markup.goldmark.renderer]
+    unsafe = true
