@@ -1,4 +1,4 @@
-baseURL = 'https://mitzvot.makyo.ink/'
+baseURL = 'https://mitzvot.post-self.ink/'
 languageCode = 'en-us'
 title = 'Mitzvot'
 theme = 'maddybook'
@@ -13,7 +13,7 @@ paginatePath = ''
     copyright = 2023
     customCSS = ['/css/mitzvot.css']
     subtitle = 'Post-Self book IV'
-    subtitleLink = 'https://post-self.makyo.ink'
+    subtitleLink = 'https://post-self.ink'
 
 [markup.goldmark.renderer]
     unsafe = true
