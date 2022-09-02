@@ -19,7 +19,7 @@ One of the most well-known names from one of the most well-known clades on the S
 
 ## The *Mitzvot* Kickstarter
 
-*Mitzvot* was being funded as a Kickstarter to help with the costs of cover art and publication. The campaign ended on August 30, 2022 and raised $4759 --- 951% of the original goal.
+*Mitzvot* was funded as a Kickstarter to help with the costs of cover art and publication. The campaign ended on August 30, 2022 and raised $4759 --- 951% of the original goal.
 
 ### Stretch goals
 
