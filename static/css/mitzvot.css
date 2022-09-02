@@ -11,3 +11,9 @@ h1, h2 {
 blockquote {
     overflow-wrap: break-word;
 }
+
+.title ul {
+    list-style-type: initial;
+    text-align: left;
+    padding-left: 2rem;
+}
