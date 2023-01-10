@@ -27,9 +27,9 @@ One of the most well-known names from one of the most well-known clades on the S
 
 ### Advance Praise
 
->  It’s no surprise that this series was a favorite of mine, what with the LGBTQ+ cast, furries, and the use of programming concepts in its world building. If you’re into sci-fi or just love a good fleshed out world I would recommend giving the books a try.
+>  Mitzvot drills down deeper into the lives of its characters and shows us that between the world-shattering projects that change the very understanding of the System, they’re just people trying to live their lives with love and purpose.
 
---- Nenekiri Bookwyrm
+--- [Nenekiri Bookwyrm](https://www.goodreads.com/review/show/5250893173)
 
 -----
 
