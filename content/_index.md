@@ -15,8 +15,6 @@ Even the grandest of stories can feel small and immediate when it's just one per
 
 One of the most well-known names from one of the most well-known clades on the System, the avatar of political machinations and cool confidence, has been brought low. With help coming only from Ioan Bălan and the most grudging of support from her cocladists, all True Name has left to save herself is the ability to change.
 
-**Coming January, 2023** but you can read a [sample](/sample) now!
-
 -----
 
 <p class="buy">Also available at several fine independent booksellers (and many much larger ones).</p>
