@@ -1,6 +1,25 @@
 ---
 ---
 
+### *Mitzvot* Launch Party
+
+Come and join for a small book launch event on Saturday, January 21 at noon Pacific! There will be readings, some chat about the Post-Self series, and sales on all of the books. The whole thing will take place online and may be watched on Twitch.tv, where I will stream from VR. It'll take place in Beat Saber, which is probably a world first. You can watch at <https://twitch.tv/ephahvix>.
+
+<!-- Add a placeholder for the Twitch embed -->
+<div id="twitch-embed"></div>
+
+<!-- Load the Twitch embed JavaScript file -->
+<script src="https://embed.twitch.tv/embed/v1.js"></script>
+
+<!-- Create a Twitch.Embed object that will render within the "twitch-embed" element -->
+<script type="text/javascript">
+  new Twitch.Embed("twitch-embed", {
+    width: 854,
+    height: 480,
+    channel: "ephahvix",
+  });
+</script>
+
 [![The front cover of Mitzvot - an anthropomorphic skunk standing in a lake, sobbing](/img/cover.png)](/img/cover.png)
 
 <p class="buy">
