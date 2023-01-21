@@ -37,7 +37,7 @@ One of the most well-known names from one of the most well-known clades on the S
 -----
 
 <p class="buy">Also available at several fine independent booksellers (and many much larger ones).</p>
-<!--<p class="buy">Strapped for cash? <a href="/read">Read online for free!</a></p>-->
+<p class="buy">Strapped for cash? <a href="/read">Read online for free!</a></p>
 <p class="buy">Still need to read book I? <a href="https://qoheleth.post-self.ink">Read <em>Qoheleth</em>.</a></p>
 <p class="buy">Ready to move on to book II? <a href="https://toledot.post-self.ink">Read <em>Toledot</em>.</a></p>
 <p class="buy">Ready to move on to book III? <a href="https://neviim.post-self.ink">Read <em>Nevi'im</em>.</a></p>
