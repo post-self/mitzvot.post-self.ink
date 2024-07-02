@@ -12,7 +12,7 @@ paginatePath = ''
     home = 'https://makyo.ink'
     copyright = 2023
     customCSS = ['/css/mitzvot.css']
-    subtitle = 'Post-Self book IV'
+    subtitle = 'Post-Self Cycle book IV'
     subtitleLink = 'https://post-self.ink'
 
 [markup.goldmark.renderer]
