@@ -11,4 +11,8 @@ blockquote:first-of-type {
     border-bottom-style: dashed;
     text-align: center;
 }
+.dark-mode blockquote:first-of-type {
+    background-color: #333333;
+    border: 1px solid #111111;
+}
 </style>
